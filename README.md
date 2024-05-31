@@ -1,0 +1,1 @@
+This code is a shop that asks for information at the beginning and the number of products, then begins the process of buying and selling and displaying the products, their quantity and price. In this code, I applied the oop principle.
